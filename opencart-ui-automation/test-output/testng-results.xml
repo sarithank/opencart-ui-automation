@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="21" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-25T19:27:54 CDT" name="Opencart Test Automation" finished-at="2024-06-25T19:31:07 CDT" duration-ms="192591">
+    <groups>
+    </groups>
+    <test started-at="2024-06-25T19:27:54 CDT" name="Opencart Homepage Test" finished-at="2024-06-25T19:31:07 CDT" duration-ms="192591">
+      <class name="com.testcases.TS_02_Verify_Opencart_LoginPageTast">
+        <test-method is-config="true" signature="lanchPlaywrightAndUrl()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:28:54 CDT" name="lanchPlaywrightAndUrl" finished-at="2024-06-25T19:29:02 CDT" duration-ms="7755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchPlaywrightAndUrl -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:29:02 CDT" name="setUp" finished-at="2024-06-25T19:29:03 CDT" duration-ms="883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:29:03 CDT" name="loginPageTitleTest" finished-at="2024-06-25T19:29:03 CDT" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="closePageAndPwServer(org.testng.ITestResult)[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:29:03 CDT" name="closePageAndPwServer" finished-at="2024-06-25T19:29:05 CDT" duration-ms="1691" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginPageTitleTest status=SUCCESS method=TS_02_Verify_Opencart_LoginPageTast.loginPageTitleTest()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePageAndPwServer -->
+        <test-method is-config="true" signature="lanchPlaywrightAndUrl()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:29:05 CDT" name="lanchPlaywrightAndUrl" finished-at="2024-06-25T19:29:13 CDT" duration-ms="8482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchPlaywrightAndUrl -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:29:13 CDT" name="setUp" finished-at="2024-06-25T19:29:14 CDT" duration-ms="1144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:29:14 CDT" name="loginTest" finished-at="2024-06-25T19:29:16 CDT" duration-ms="1304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closePageAndPwServer(org.testng.ITestResult)[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:29:16 CDT" name="closePageAndPwServer" finished-at="2024-06-25T19:29:18 CDT" duration-ms="2008" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest status=SUCCESS method=TS_02_Verify_Opencart_LoginPageTast.loginTest()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePageAndPwServer -->
+        <test-method is-config="true" signature="lanchPlaywrightAndUrl()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:29:18 CDT" name="lanchPlaywrightAndUrl" finished-at="2024-06-25T19:29:27 CDT" duration-ms="9054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchPlaywrightAndUrl -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:29:27 CDT" name="setUp" finished-at="2024-06-25T19:29:28 CDT" duration-ms="1027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="navigateToForgotPasswordPageTest()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:29:28 CDT" name="navigateToForgotPasswordPageTest" finished-at="2024-06-25T19:29:29 CDT" duration-ms="1603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToForgotPasswordPageTest -->
+        <test-method is-config="true" signature="closePageAndPwServer(org.testng.ITestResult)[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:29:29 CDT" name="closePageAndPwServer" finished-at="2024-06-25T19:29:32 CDT" duration-ms="2622" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigateToForgotPasswordPageTest status=SUCCESS method=TS_02_Verify_Opencart_LoginPageTast.navigateToForgotPasswordPageTest()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePageAndPwServer -->
+        <test-method is-config="true" signature="lanchPlaywrightAndUrl()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:29:32 CDT" name="lanchPlaywrightAndUrl" finished-at="2024-06-25T19:29:41 CDT" duration-ms="9081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchPlaywrightAndUrl -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:29:41 CDT" name="setUp" finished-at="2024-06-25T19:29:42 CDT" duration-ms="1005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="navigateToRegisterPageTest()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:29:42 CDT" name="navigateToRegisterPageTest" finished-at="2024-06-25T19:29:44 CDT" duration-ms="1939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToRegisterPageTest -->
+        <test-method is-config="true" signature="closePageAndPwServer(org.testng.ITestResult)[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:29:44 CDT" name="closePageAndPwServer" finished-at="2024-06-25T19:29:46 CDT" duration-ms="2060" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigateToRegisterPageTest status=SUCCESS method=TS_02_Verify_Opencart_LoginPageTast.navigateToRegisterPageTest()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePageAndPwServer -->
+        <test-method is-config="true" signature="lanchPlaywrightAndUrl()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:29:46 CDT" name="lanchPlaywrightAndUrl" finished-at="2024-06-25T19:29:54 CDT" duration-ms="8298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchPlaywrightAndUrl -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:29:54 CDT" name="setUp" finished-at="2024-06-25T19:29:55 CDT" duration-ms="958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginBreadCrumbExists()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:29:55 CDT" name="verifyLoginBreadCrumbExists" finished-at="2024-06-25T19:29:55 CDT" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginBreadCrumbExists -->
+        <test-method is-config="true" signature="closePageAndPwServer(org.testng.ITestResult)[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:29:55 CDT" name="closePageAndPwServer" finished-at="2024-06-25T19:29:57 CDT" duration-ms="1730" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLoginBreadCrumbExists status=SUCCESS method=TS_02_Verify_Opencart_LoginPageTast.verifyLoginBreadCrumbExists()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePageAndPwServer -->
+        <test-method is-config="true" signature="lanchPlaywrightAndUrl()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:29:57 CDT" name="lanchPlaywrightAndUrl" finished-at="2024-06-25T19:30:08 CDT" duration-ms="10826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchPlaywrightAndUrl -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:30:08 CDT" name="setUp" finished-at="2024-06-25T19:30:09 CDT" duration-ms="998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyNewCustomerHeaderExists()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:30:09 CDT" name="verifyNewCustomerHeaderExists" finished-at="2024-06-25T19:30:09 CDT" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewCustomerHeaderExists -->
+        <test-method is-config="true" signature="closePageAndPwServer(org.testng.ITestResult)[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:30:09 CDT" name="closePageAndPwServer" finished-at="2024-06-25T19:30:10 CDT" duration-ms="1549" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyNewCustomerHeaderExists status=SUCCESS method=TS_02_Verify_Opencart_LoginPageTast.verifyNewCustomerHeaderExists()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePageAndPwServer -->
+        <test-method is-config="true" signature="lanchPlaywrightAndUrl()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:30:10 CDT" name="lanchPlaywrightAndUrl" finished-at="2024-06-25T19:30:18 CDT" duration-ms="7693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchPlaywrightAndUrl -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:30:18 CDT" name="setUp" finished-at="2024-06-25T19:30:19 CDT" duration-ms="946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyreturningCustomerHeaderExists()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:30:19 CDT" name="verifyreturningCustomerHeaderExists" finished-at="2024-06-25T19:30:19 CDT" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyreturningCustomerHeaderExists -->
+        <test-method is-config="true" signature="closePageAndPwServer(org.testng.ITestResult)[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4]" started-at="2024-06-25T19:30:19 CDT" name="closePageAndPwServer" finished-at="2024-06-25T19:30:21 CDT" duration-ms="1686" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyreturningCustomerHeaderExists status=SUCCESS method=TS_02_Verify_Opencart_LoginPageTast.verifyreturningCustomerHeaderExists()[pri:0, instance:com.testcases.TS_02_Verify_Opencart_LoginPageTast@1b1426f4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePageAndPwServer -->
+      </class> <!-- com.testcases.TS_02_Verify_Opencart_LoginPageTast -->
+      <class name="com.testcases.TS_01_Verify_Opencart_HomePageTest">
+        <test-method is-config="true" signature="setUpBeforeTestSuite()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:27:53 CDT" name="setUpBeforeTestSuite" finished-at="2024-06-25T19:27:54 CDT" duration-ms="1047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestSuite -->
+        <test-method is-config="true" signature="lanchPlaywrightAndUrl()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:27:54 CDT" name="lanchPlaywrightAndUrl" finished-at="2024-06-25T19:28:04 CDT" duration-ms="10410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchPlaywrightAndUrl -->
+        <test-method signature="homePageTitleTest()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:28:04 CDT" name="homePageTitleTest" finished-at="2024-06-25T19:28:04 CDT" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitleTest -->
+        <test-method is-config="true" signature="closePageAndPwServer(org.testng.ITestResult)[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:28:04 CDT" name="closePageAndPwServer" finished-at="2024-06-25T19:28:06 CDT" duration-ms="1252" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=homePageTitleTest status=SUCCESS method=TS_01_Verify_Opencart_HomePageTest.homePageTitleTest()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePageAndPwServer -->
+        <test-method is-config="true" signature="lanchPlaywrightAndUrl()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:28:06 CDT" name="lanchPlaywrightAndUrl" finished-at="2024-06-25T19:28:13 CDT" duration-ms="7018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchPlaywrightAndUrl -->
+        <test-method signature="homePageURLTest()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:28:13 CDT" name="homePageURLTest" finished-at="2024-06-25T19:28:13 CDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageURLTest -->
+        <test-method is-config="true" signature="closePageAndPwServer(org.testng.ITestResult)[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:28:13 CDT" name="closePageAndPwServer" finished-at="2024-06-25T19:28:14 CDT" duration-ms="971" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=homePageURLTest status=SUCCESS method=TS_01_Verify_Opencart_HomePageTest.homePageURLTest()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePageAndPwServer -->
+        <test-method is-config="true" signature="lanchPlaywrightAndUrl()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:28:14 CDT" name="lanchPlaywrightAndUrl" finished-at="2024-06-25T19:28:19 CDT" duration-ms="5603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchPlaywrightAndUrl -->
+        <test-method signature="navigateToRegisterPageTest()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:28:19 CDT" name="navigateToRegisterPageTest" finished-at="2024-06-25T19:28:21 CDT" duration-ms="1701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToRegisterPageTest -->
+        <test-method is-config="true" signature="closePageAndPwServer(org.testng.ITestResult)[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:28:21 CDT" name="closePageAndPwServer" finished-at="2024-06-25T19:28:22 CDT" duration-ms="1007" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigateToRegisterPageTest status=SUCCESS method=TS_01_Verify_Opencart_HomePageTest.navigateToRegisterPageTest()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePageAndPwServer -->
+        <test-method is-config="true" signature="lanchPlaywrightAndUrl()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:28:22 CDT" name="lanchPlaywrightAndUrl" finished-at="2024-06-25T19:28:30 CDT" duration-ms="7924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchPlaywrightAndUrl -->
+        <test-method signature="verifyOpenCartLogoTest()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:28:30 CDT" name="verifyOpenCartLogoTest" finished-at="2024-06-25T19:28:30 CDT" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOpenCartLogoTest -->
+        <test-method is-config="true" signature="closePageAndPwServer(org.testng.ITestResult)[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:28:30 CDT" name="closePageAndPwServer" finished-at="2024-06-25T19:28:33 CDT" duration-ms="3323" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyOpenCartLogoTest status=SUCCESS method=TS_01_Verify_Opencart_HomePageTest.verifyOpenCartLogoTest()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePageAndPwServer -->
+        <test-method is-config="true" signature="lanchPlaywrightAndUrl()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:28:33 CDT" name="lanchPlaywrightAndUrl" finished-at="2024-06-25T19:28:42 CDT" duration-ms="8271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchPlaywrightAndUrl -->
+        <test-method signature="FeaturedSectionCardaCountTest()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:28:42 CDT" name="FeaturedSectionCardaCountTest" finished-at="2024-06-25T19:28:42 CDT" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FeaturedSectionCardaCountTest -->
+        <test-method is-config="true" signature="closePageAndPwServer(org.testng.ITestResult)[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:28:42 CDT" name="closePageAndPwServer" finished-at="2024-06-25T19:28:44 CDT" duration-ms="1918" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=FeaturedSectionCardaCountTest status=SUCCESS method=TS_01_Verify_Opencart_HomePageTest.FeaturedSectionCardaCountTest()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePageAndPwServer -->
+        <test-method is-config="true" signature="lanchPlaywrightAndUrl()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:28:44 CDT" name="lanchPlaywrightAndUrl" finished-at="2024-06-25T19:28:51 CDT" duration-ms="7696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchPlaywrightAndUrl -->
+        <test-method signature="navigateToLoginPageTest()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:28:51 CDT" name="navigateToLoginPageTest" finished-at="2024-06-25T19:28:53 CDT" duration-ms="1322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToLoginPageTest -->
+        <test-method is-config="true" signature="closePageAndPwServer(org.testng.ITestResult)[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:28:53 CDT" name="closePageAndPwServer" finished-at="2024-06-25T19:28:54 CDT" duration-ms="1438" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigateToLoginPageTest status=SUCCESS method=TS_01_Verify_Opencart_HomePageTest.navigateToLoginPageTest()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePageAndPwServer -->
+        <test-method is-config="true" signature="lanchPlaywrightAndUrl()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:30:38 CDT" name="lanchPlaywrightAndUrl" finished-at="2024-06-25T19:30:45 CDT" duration-ms="6939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchPlaywrightAndUrl -->
+        <test-method signature="searchTest(java.lang.String)[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:30:45 CDT" name="searchTest" data-provider="productData" finished-at="2024-06-25T19:30:46 CDT" depends-on-methods="com.testcases.TS_01_Verify_Opencart_HomePageTest.navigateToRegisterPageTest" duration-ms="906" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Macbook]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method is-config="true" signature="closePageAndPwServer(org.testng.ITestResult)[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:30:46 CDT" name="closePageAndPwServer" finished-at="2024-06-25T19:30:47 CDT" duration-ms="1282" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchTest status=SUCCESS method=TS_01_Verify_Opencart_HomePageTest.searchTest(java.lang.String)[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePageAndPwServer -->
+        <test-method is-config="true" signature="lanchPlaywrightAndUrl()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:30:47 CDT" name="lanchPlaywrightAndUrl" finished-at="2024-06-25T19:30:53 CDT" duration-ms="6328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchPlaywrightAndUrl -->
+        <test-method signature="searchTest(java.lang.String)[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:30:53 CDT" name="searchTest" data-provider="productData" finished-at="2024-06-25T19:30:54 CDT" depends-on-methods="com.testcases.TS_01_Verify_Opencart_HomePageTest.navigateToRegisterPageTest" duration-ms="733" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IMac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method is-config="true" signature="closePageAndPwServer(org.testng.ITestResult)[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:30:54 CDT" name="closePageAndPwServer" finished-at="2024-06-25T19:30:55 CDT" duration-ms="1104" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchTest status=SUCCESS method=TS_01_Verify_Opencart_HomePageTest.searchTest(java.lang.String)[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePageAndPwServer -->
+        <test-method is-config="true" signature="lanchPlaywrightAndUrl()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:30:55 CDT" name="lanchPlaywrightAndUrl" finished-at="2024-06-25T19:31:05 CDT" duration-ms="9232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchPlaywrightAndUrl -->
+        <test-method signature="searchTest(java.lang.String)[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:31:05 CDT" name="searchTest" data-provider="productData" finished-at="2024-06-25T19:31:05 CDT" depends-on-methods="com.testcases.TS_01_Verify_Opencart_HomePageTest.navigateToRegisterPageTest" duration-ms="842" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method is-config="true" signature="closePageAndPwServer(org.testng.ITestResult)[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:31:05 CDT" name="closePageAndPwServer" finished-at="2024-06-25T19:31:07 CDT" duration-ms="1250" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchTest status=SUCCESS method=TS_01_Verify_Opencart_HomePageTest.searchTest(java.lang.String)[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePageAndPwServer -->
+        <test-method is-config="true" signature="tearDownAfterSuite()[pri:0, instance:com.testcases.TS_01_Verify_Opencart_HomePageTest@49c7b90e]" started-at="2024-06-25T19:31:07 CDT" name="tearDownAfterSuite" finished-at="2024-06-25T19:31:07 CDT" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterSuite -->
+      </class> <!-- com.testcases.TS_01_Verify_Opencart_HomePageTest -->
+      <class name="com.testcases.TS_03_Verify_Opencart_RegisterPageTest">
+        <test-method is-config="true" signature="lanchPlaywrightAndUrl()[pri:0, instance:com.testcases.TS_03_Verify_Opencart_RegisterPageTest@156b88f5]" started-at="2024-06-25T19:30:21 CDT" name="lanchPlaywrightAndUrl" finished-at="2024-06-25T19:30:32 CDT" duration-ms="11255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchPlaywrightAndUrl -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testcases.TS_03_Verify_Opencart_RegisterPageTest@156b88f5]" started-at="2024-06-25T19:30:32 CDT" name="setUp" finished-at="2024-06-25T19:30:34 CDT" duration-ms="1755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="registerNewAccountTest()[pri:0, instance:com.testcases.TS_03_Verify_Opencart_RegisterPageTest@156b88f5]" started-at="2024-06-25T19:30:34 CDT" name="registerNewAccountTest" finished-at="2024-06-25T19:30:37 CDT" duration-ms="2722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerNewAccountTest -->
+        <test-method is-config="true" signature="closePageAndPwServer(org.testng.ITestResult)[pri:0, instance:com.testcases.TS_03_Verify_Opencart_RegisterPageTest@156b88f5]" started-at="2024-06-25T19:30:37 CDT" name="closePageAndPwServer" finished-at="2024-06-25T19:30:38 CDT" duration-ms="1406" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=registerNewAccountTest status=SUCCESS method=TS_03_Verify_Opencart_RegisterPageTest.registerNewAccountTest()[pri:0, instance:com.testcases.TS_03_Verify_Opencart_RegisterPageTest@156b88f5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePageAndPwServer -->
+      </class> <!-- com.testcases.TS_03_Verify_Opencart_RegisterPageTest -->
+    </test> <!-- Opencart Homepage Test -->
+  </suite> <!-- Opencart Test Automation -->
+</testng-results>
