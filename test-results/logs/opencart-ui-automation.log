@@ -1,0 +1,51 @@
+[33m[2024-Jun-25 19:27:58.719 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'firefox' with headless mode as 'true'
+[33m[2024-Jun-25 19:27:59.776 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1280' and Height '720'
+[33m[2024-Jun-25 19:28:06.650 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'firefox' with headless mode as 'true'
+[33m[2024-Jun-25 19:28:08.673 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1280' and Height '720'
+[33m[2024-Jun-25 19:28:14.659 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'firefox' with headless mode as 'true'
+[33m[2024-Jun-25 19:28:15.892 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1280' and Height '720'
+[33m[2024-Jun-25 19:28:23.207 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'firefox' with headless mode as 'true'
+[33m[2024-Jun-25 19:28:24.685 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1280' and Height '720'
+[33m[2024-Jun-25 19:28:30.465 CDT][m [37m[Thread ID: 24][m [94m[HomePage.isOpenCartLogoExist][m [32m[INFO][m Checkin the logo exists or not
+[33m[2024-Jun-25 19:28:34.705 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'firefox' with headless mode as 'true'
+[33m[2024-Jun-25 19:28:36.576 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1280' and Height '720'
+[33m[2024-Jun-25 19:28:42.242 CDT][m [37m[Thread ID: 24][m [94m[HomePage.getFeaturedSectionCardaCount][m [32m[INFO][m checking the featured section cards count
+[33m[2024-Jun-25 19:28:44.988 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'firefox' with headless mode as 'true'
+[33m[2024-Jun-25 19:28:47.029 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1280' and Height '720'
+[33m[2024-Jun-25 19:28:52.785 CDT][m [37m[Thread ID: 24][m [94m[LoginPage.clickLoginHomeIcon][m [32m[INFO][m click on login home icon in breadcrumb
+[33m[2024-Jun-25 19:28:55.414 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'firefox' with headless mode as 'true'
+[33m[2024-Jun-25 19:28:57.258 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1280' and Height '720'
+[33m[2024-Jun-25 19:29:05.817 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'firefox' with headless mode as 'true'
+[33m[2024-Jun-25 19:29:07.836 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1280' and Height '720'
+[33m[2024-Jun-25 19:29:14.745 CDT][m [37m[Thread ID: 24][m [94m[LoginPage.doLogin][m [32m[INFO][m Login to the application using usernamerameshqaonline@gmail.comand passwordVGVzdEAxMjM=
+[33m[2024-Jun-25 19:29:16.029 CDT][m [37m[Thread ID: 24][m [94m[LoginPage.doLogin][m [36m[DEBUG][m Login to the application is Successfull
+[33m[2024-Jun-25 19:29:18.901 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'firefox' with headless mode as 'true'
+[33m[2024-Jun-25 19:29:21.407 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1280' and Height '720'
+[33m[2024-Jun-25 19:29:28.127 CDT][m [37m[Thread ID: 24][m [94m[LoginPage.navigateToForgotPasswordPage][m [32m[INFO][m click on forget Passwrd button in ligin page 
+[33m[2024-Jun-25 19:29:33.231 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'firefox' with headless mode as 'true'
+[33m[2024-Jun-25 19:29:35.567 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1280' and Height '720'
+[33m[2024-Jun-25 19:29:42.442 CDT][m [37m[Thread ID: 24][m [94m[LoginPage.navigateToRegisterPage][m [32m[INFO][m click on continue button in ligin page under newcustomer section
+[33m[2024-Jun-25 19:29:47.226 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'firefox' with headless mode as 'true'
+[33m[2024-Jun-25 19:29:49.350 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1280' and Height '720'
+[33m[2024-Jun-25 19:29:58.318 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'firefox' with headless mode as 'true'
+[33m[2024-Jun-25 19:30:00.686 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1280' and Height '720'
+[33m[2024-Jun-25 19:30:11.713 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'firefox' with headless mode as 'true'
+[33m[2024-Jun-25 19:30:13.506 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1280' and Height '720'
+[33m[2024-Jun-25 19:30:22.144 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'firefox' with headless mode as 'true'
+[33m[2024-Jun-25 19:30:24.198 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1280' and Height '720'
+[33m[2024-Jun-25 19:30:35.206 CDT][m [37m[Thread ID: 24][m [94m[RegisterPage.selectSubScribe][m [32m[INFO][m select newsletter subscription value
+[33m[2024-Jun-25 19:30:35.207 CDT][m [37m[Thread ID: 24][m [94m[RegisterPage.selectSubScribe][m [32m[INFO][m select newsletter subscription value - Yes 
+[33m[2024-Jun-25 19:30:35.320 CDT][m [37m[Thread ID: 24][m [94m[RegisterPage.checkAgreeCheckBox][m [32m[INFO][m check the check box
+[33m[2024-Jun-25 19:30:35.435 CDT][m [37m[Thread ID: 24][m [94m[RegisterPage.clickContinueBtn][m [32m[INFO][m click on continue button
+[33m[2024-Jun-25 19:30:39.066 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'firefox' with headless mode as 'true'
+[33m[2024-Jun-25 19:30:40.644 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1280' and Height '720'
+[33m[2024-Jun-25 19:30:46.314 CDT][m [37m[Thread ID: 24][m [94m[HomePage.searchProduct][m [36m[DEBUG][m search of Search - Macbookproduct is succesfull
+[33m[2024-Jun-25 19:30:46.327 CDT][m [37m[Thread ID: 24][m [94m[HomePage.searchProduct][m [36m[DEBUG][m search of Macbookproduct is suuccesfull
+[33m[2024-Jun-25 19:30:48.201 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'firefox' with headless mode as 'true'
+[33m[2024-Jun-25 19:30:49.674 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1280' and Height '720'
+[33m[2024-Jun-25 19:30:54.646 CDT][m [37m[Thread ID: 24][m [94m[HomePage.searchProduct][m [36m[DEBUG][m search of Search - IMacproduct is succesfull
+[33m[2024-Jun-25 19:30:54.677 CDT][m [37m[Thread ID: 24][m [94m[HomePage.searchProduct][m [36m[DEBUG][m search of IMacproduct is suuccesfull
+[33m[2024-Jun-25 19:30:56.273 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowser][m [32m[INFO][m Browser Selected for Test Execution 'firefox' with headless mode as 'true'
+[33m[2024-Jun-25 19:30:57.629 CDT][m [37m[Thread ID: 24][m [94m[PlaywrightFactory.getBrowserContext][m [32m[INFO][m Browser Context - Viewport Width '1280' and Height '720'
+[33m[2024-Jun-25 19:31:05.850 CDT][m [37m[Thread ID: 24][m [94m[HomePage.searchProduct][m [36m[DEBUG][m search of Search - Samsungproduct is succesfull
+[33m[2024-Jun-25 19:31:05.858 CDT][m [37m[Thread ID: 24][m [94m[HomePage.searchProduct][m [36m[DEBUG][m search of Samsungproduct is suuccesfull
